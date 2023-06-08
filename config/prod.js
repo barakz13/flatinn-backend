@@ -1,3 +1,3 @@
 module.exports = {
-  dbURL: process.env.HEROKU_MONGO_URL,
+  dbURL: process.env.MONGO_URL,
 };
