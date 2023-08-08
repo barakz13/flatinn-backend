@@ -12,7 +12,7 @@ Vue 3 CLI (using Vite), SCSS, NodeJS (with Express.js) and MongoDB Atlas.
 
 Hope you'd like it!
 
-<a href="https://flat-inn-101.herokuapp.com/" target="blank">Link to the Project</a>
+<a href="https://flatinn.onrender.com" target="blank">Link to the Project</a>
 </br>
 <a href="https://github.com/barakz13/flatinn-frontend">Link to the Frontend Repository</a>
 
